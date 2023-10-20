@@ -1,0 +1,25 @@
+{
+  "name": "typescriptcodingdojo",
+  "version": "1.0.0",
+  "description": "A good start for a coding dojo.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlschmitt/TypeScriptCodingDojo.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Karl Schmitt",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/karlschmitt/TypeScriptCodingDojo/issues"
+  },
+  "homepage": "https://github.com/karlschmitt/TypeScriptCodingDojo#readme"
+}
