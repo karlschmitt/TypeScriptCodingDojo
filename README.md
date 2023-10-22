@@ -30,6 +30,27 @@ Emoticons are listed herer :grinning: (emojies)[https://gist.github.com/roachhd/
 
 ## NodeJs "Auf den Schultern von Risen stehen"
 
+## Linux on Windows
+This section provides some hints on how to install a virtual Linux on your Windows machine :relaxed: 
+First list the available Linux distributions:
+```
+wsl --list --online
+```
+Second install the desired distrobution:
+```
+wsl --install -d <DistroName>
+```
+In the time writing this tutorial ist was Ubuntu 22
+```
+wsl --install -d Ubuntu-22.04
+```
+Please feel free to choose a newer Ubuntu version available :smirk:
+
+
+![Ubuntu installation screen shot]()
+
+
+
 
 
 
