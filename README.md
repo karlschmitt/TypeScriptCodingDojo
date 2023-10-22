@@ -47,7 +47,7 @@ wsl --install -d Ubuntu-22.04
 Please feel free to choose a newer Ubuntu version available :smirk:
 
 
-![Ubuntu installation screen shot]()
+![Ubuntu installation screen shot](/images/WSL_Installing_Ubuntu_for_server_simulation.PNG)
 
 
 
