@@ -78,5 +78,13 @@ node -v
 npm -v
 ```
 
+Finaly let's install the simple-server package:
+```
+npm install -g json-server
+```
+And start playing:
+[Getting started](https://www.npmjs.com/package/json-server#getting-started)
+[Simple server](https://www.npmjs.com/package/json-server#simple-example)
+
 
 
