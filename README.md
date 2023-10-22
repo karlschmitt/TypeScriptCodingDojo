@@ -22,7 +22,7 @@ to JavaScript and TypeScript including Test-Driven-Development using Unit-Testin
 
 ## Emotions
 
-Emoticons listed are listed herer :grinning: (emojies)[https://gist.github.com/roachhd/1f029bd4b50b8a524f3c]
+Emoticons are listed herer :grinning: (emojies)[https://gist.github.com/roachhd/1f029bd4b50b8a524f3c]
 
 ## GitBash
 
