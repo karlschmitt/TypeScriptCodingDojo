@@ -20,6 +20,10 @@ to JavaScript and TypeScript including Test-Driven-Development using Unit-Testin
 14. Jason Server: [jason-server](https://www.npmjs.com/package/json-server#simple-example)
 15. Learning Visual Studio Code: [Visual Studiio Code](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial)
 
+## Emotions
+
+Emoticons listed are listed herer :grinning: (emojies)[https://gist.github.com/roachhd/1f029bd4b50b8a524f3c]
+
 ## GitBash
 
 ## Visual Studio Code a powerful code editor
