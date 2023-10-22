@@ -50,8 +50,29 @@ Please feel free to choose a newer Ubuntu version available :smirk:
 ![Ubuntu installation screen shot](images/WSL_Installing_Ubuntu_for_server_simulation.PNG)
 
 
+In case you need to get rid of your WSL Linux you can use the following command:
+```
+wsl --unregister Ubuntu
+```
 
-
+Let's update our new Linux, this is always a good idea:
+```
+sudo apt-get update
+```
+Next let us navigate into the temp folder and download the NodeJs tar ball:
+```
+cd /tmp
+wget https://nodejs.org/download/release/latest-v21.x/node-v21.0.0-linux-x64.tar.gz
+````
+Now let us install the freshly provided NodeJs tar ball:
+```
+sudo tar -C /usr/local --strip-components 1 -xzf node-v21.0.0-linux-x64.tar.gz
+```
+Finaly let's check the node and npm versions:
+```
+node -v
+npm -v
+```
 
 
 
