@@ -1,0 +1,11 @@
+
+Google lit: TypeScript Decorator Tutorial
+https://medium.com/litslink/typescript-decorators-in-examples-c3afcd3c7ff8
+
+
+https://www.digitalocean.com/community/tutorials/how-to-use-decorators-in-typescript
+
+
+https://www.typescriptlang.org/docs/handbook/decorators.html
+
+https://www.logicbig.com/tutorials/misc/typescript/class-decorators.html

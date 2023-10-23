@@ -1,0 +1,2 @@
+https://bobbyhadz.com/blog/typescript-array-contains
+

@@ -22,16 +22,41 @@ to JavaScript and TypeScript including Test-Driven-Development using Unit-Testin
 
 ## Emotions
 
-Emoticons are listed herer :grinning: (emojies)[https://gist.github.com/roachhd/1f029bd4b50b8a524f3c]
+Emoticons are listed here :grinning: [emojies](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 
 ## GitBash
 
+Git for Windows can be downloaded here: [GitBash for Windows](https://gitforwindows.org/)
+
+**_NOTE:_** You might need admin rights though, so feel free use the next Web link!
+
+Also feel free to download the portable version: [GitBash portable](https://git-scm.com/download/win)
+
 ## Visual Studio Code a powerful code editor
+
+Visual Studio Code can be dowloaded here: [Visual Studio Code](https://code.visualstudio.com/download)
 
 ## NodeJs "Auf den Schultern von Risen stehen"
 
+NodeJs can be downloaded here zip or tar.gz archive: [NodeJS distributions](https://nodejs.org/dist/)
+
+1. First, download and extract the archive into a folder of your choice
+2. Second, add the folder to your **path** variable, on Windows this is "Umgebungsvariablen für dieses Konto bearbeiten"
+
+## JavaScript to learn list
+
+1. The absoulte beginning: [JavaScript One](https://learn.microsoft.com/de-de/shows/beginners-series-to-javascript/?wt.mc_id=javascript-29163-cxa)
+
+## TypeScript to learn list
+
+1. TypeScript closures explained: [Closures](https://o7planning.org/14063/typescript-closures)
+
 ## Linux on Windows
+
+When starting with Linux in any form you might consider to become acquainted with the vi editor: [vim](https://github.com/iggredible/Learn-Vim)
+
 This section provides some hints on how to install a virtual Linux on your Windows machine :relaxed: 
+
 First list the available Linux distributions:
 ```
 wsl --list --online
@@ -83,8 +108,9 @@ Finaly let's install the simple-server package:
 npm install -g json-server
 ```
 And start playing:
-[Getting started](https://www.npmjs.com/package/json-server#getting-started)
-[Simple server](https://www.npmjs.com/package/json-server#simple-example)
+
+1. [Getting started](https://www.npmjs.com/package/json-server#getting-started)
+2. [Simple server](https://www.npmjs.com/package/json-server#simple-example)
 
 
 
